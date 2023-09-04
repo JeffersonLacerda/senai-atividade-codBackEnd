@@ -1,0 +1,15 @@
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\bin\Debug\net7.0\Atividade.exe
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\bin\Debug\net7.0\Atividade.deps.json
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\bin\Debug\net7.0\Atividade.dll
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\bin\Debug\net7.0\Atividade.pdb
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.dll
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.pdb
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+E:\BKP\- Constante\SENAI\09 - Codificação para BackEnd\SP2\Desafio2AtvA\Atividade\obj\Debug\net7.0\ref\Atividade.dll
